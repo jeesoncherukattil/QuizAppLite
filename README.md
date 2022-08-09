@@ -1,5 +1,5 @@
 # QuizAppLite
-Andoid Quiz App with authnetication
+Andoid Quiz App with authentication
 
 App has the feature to create a quiz and play quiz.
 The user authentication and register feature is also included
