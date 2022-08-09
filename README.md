@@ -5,6 +5,13 @@ App has the feature to create a quiz and play quiz.
 The user authentication and register feature is also included
 The Quiz results will be displayed based on the evaluation.
 This is term project for Mobile Application Developemnt @ lambton College Toronto
+#
+Group Members 
+#Jeeson Jospeh - C0821476 , 
+Alisha Joy - C0824395 ,
+Anees Bikubahai Motani ,
+Vishwanth ,
+
 
 
          
@@ -19,11 +26,4 @@ This is term project for Mobile Application Developemnt @ lambton College Toront
 ![image](https://user-images.githubusercontent.com/16876902/183775325-489f20e1-74d0-4ab0-9976-881f36a49fb0.png)
 
 
-
-Group Members 
-
-Jeeson Jospeh - C0821476
-Alisha Joy - C0824395
-Anees Bikubahai Motani 
-Vishwanth 
 
