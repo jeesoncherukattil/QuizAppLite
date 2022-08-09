@@ -9,8 +9,8 @@ This is term project for Mobile Application Developemnt @ lambton College Toront
 Group Members 
 #Jeeson Jospeh - C0821476 , 
 Alisha Joy - C0824395 ,
-Anees Bikubahai Motani ,
-Vishwanth ,
+Anees Bikubahai Motani - C0814069 ,
+Vishwanth Reddy -,
 
 
 
