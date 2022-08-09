@@ -12,7 +12,7 @@ Jeeson Jospeh - C0821476
 <br>
 Alisha Joy - C0824395 
 <br>
-Anees Bikubahai Motani - C0814069 
+Anees Bikkubhai Motani - C0814069 
 <br>
 Vishwanth Reddy -
     
