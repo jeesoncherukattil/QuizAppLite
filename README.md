@@ -7,18 +7,15 @@ The Quiz results will be displayed based on the evaluation.
 This is term project for Mobile Application Developemnt @ lambton College Toronto
 #
 Group Members 
-#
-#Jeeson Jospeh - C0821476 
-#
+<br>
+Jeeson Jospeh - C0821476 
+<br>
 Alisha Joy - C0824395 
-#
+<br>
 Anees Bikubahai Motani - C0814069 
-#
+<br>
 Vishwanth Reddy -
-
-
-
-         
+    
 
  
 ![image](https://user-images.githubusercontent.com/16876902/183775188-154e261a-8e7b-4c04-8429-60766b5c4ff8.png)
